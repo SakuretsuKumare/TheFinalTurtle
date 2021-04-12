@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Final Project Turtles</string>
+    <string name="title2ndPage">What We Can Do</string>
+    <string name="flavor2ndPage">Participate in coastal clean-ups and reduce plastic use to keep our beaches and ocean clean. Trash in the ocean can harm sea turtles and other creatures that live there.</string>
+    <string name="turtleButton">Click me to learn more online:</string>
+    <string name="turtleLink">https://www.fisheries.noaa.gov/feature-story/what-can-you-do-save-sea-turtles</string>
+
+</resources>
